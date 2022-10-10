@@ -13,3 +13,16 @@ h1,h5{
     width: 30px;
     border-radius: 30%;
 }
+h1{
+    text-align: center;
+}
+.margintop{
+    margin-top: 20px;
+}
+.cardbprder{
+   
+        border: 20px solid;
+        padding: 15px;
+        /* border-image: url(border.png) 30 stretch; */
+      
+}
