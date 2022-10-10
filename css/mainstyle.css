@@ -1,0 +1,15 @@
+.carouselimage{
+    height: 500px;
+}
+.carouselfont{
+    color: red;
+        font-size: 50px;
+        text-shadow: 2px 2px 4px lightblue;
+}
+h1,h5{
+    font-family: 'Snap ITC' !important;
+}
+.sond{
+    width: 30px;
+    border-radius: 30%;
+}
